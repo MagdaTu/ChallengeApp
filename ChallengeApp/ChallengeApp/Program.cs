@@ -5,7 +5,7 @@ var name = "Magda";
 var sex = "female";
 var age = 29;
 if (age < 30)
-    if (sex == "female" && age < 30)
+    if (sex == "female" )
     {
     Console.WriteLine("KOBIETA PONIŻEJ 30 LAT");
     }
