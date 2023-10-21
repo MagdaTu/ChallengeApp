@@ -23,7 +23,7 @@ foreach (char letter in letters)
         counter1++;
     }
     else if (letter == '2')
-    {
+    { 
         counter2++;
     }
     else if (letter == '3')
